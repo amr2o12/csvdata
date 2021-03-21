@@ -1,4 +1,4 @@
-Entity,Code,Date,total_vaccinations_per_hundred
+Entity,Code,date,value
 Albania,ALB,2021-01-10,0
 Albania,ALB,2021-01-12,0
 Albania,ALB,2021-01-13,0.01
