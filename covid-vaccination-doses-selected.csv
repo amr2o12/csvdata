@@ -28,7 +28,6 @@ month,Country,post_no,value_vacc
 30/12/2020,Italy,1,0.02
 30/12/2020,Luxembourg,1,0.19
 30/12/2020,Mexico,1,0.02
-30/12/2020,Monaco,1,0
 30/12/2020,Oman,1,0.1
 30/12/2020,Poland,2,0.1
 30/12/2020,Portugal,2,0.26
@@ -198,7 +197,6 @@ month,Country,post_no,value_vacc
 18/01/2021,Italy,1,2.06
 18/01/2021,Luxembourg,1,0.73
 18/01/2021,Mexico,1,0.38
-18/01/2021,Monaco,1,6.12
 18/01/2021,Oman,1,0.52
 18/01/2021,Poland,2,1.31
 18/01/2021,Romania,2,1.22
